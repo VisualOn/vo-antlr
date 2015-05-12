@@ -1,0 +1,3 @@
+[submodule "antlr4-csharp"]
+	path = antlr4-csharp
+	url = https://github.com/ViceIce/antlr4-csharp
